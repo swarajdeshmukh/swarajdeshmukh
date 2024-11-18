@@ -17,10 +17,6 @@
 
 - 📄 Know about my experiences [https://bit.ly/3Za0fND](https://bit.ly/3Za0fND)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swarajdeshmukh&theme=darkhub&no-frame=true" alt="GitHub Trophies">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deshmukh-swaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshmukh-swaraj" height="30" width="40" /></a>
@@ -34,12 +30,22 @@
 
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/swarajdeshmukh/swarajdeshmukh/output/snake.svg" alt="Snake animation" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swarajdeshmukh&theme=darkhub&no-frame=true" alt="GitHub Trophies">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajdeshmukh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swarajdeshmukh&show_icons=true&locale=en&theme=radical" alt="GitHub Stats">
 </p>
+
 
 <p align="center">
   🌟 Thank you for visiting my profile! Let's connect and create something awesome together.
